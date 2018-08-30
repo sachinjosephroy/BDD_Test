@@ -1,0 +1,38 @@
+[	
+	{
+		"firstName": "Sachin",
+		"lastName": "Roy",
+		"age": 35,
+		"emailAddress": "sachin@example.com",
+		"address": {
+			"streetAddress": "123 Street",
+			"city": "New York",
+			"postCode": "11001",
+			"state": "Delhi",
+			"country": "India",
+			"county": "New York"
+		},
+		"phoneNumber": {
+			"home": "012345678",
+			"mob": "0987654321"
+		}
+	},
+	{
+		"firstName": "Virender",
+		"lastName": "Singh",
+		"age": 35,
+		"emailAddress": "Virender@Gmail.com",
+		"address": {
+			"streetAddress": "Palam Vihar",
+			"city": "Gurgaon",
+			"postCode": "12234",
+			"state": "Haryana",
+			"country": "India",
+			"county": "New Jersey"
+		},
+		"phoneNumber": {
+			"home": "012345678",
+			"mob": "0987654321"
+		}
+	}
+]
